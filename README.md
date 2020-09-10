@@ -11,6 +11,3 @@ Maxwell方程式は空間の電場をE、磁場をH、電荷密度をρ、電流
 ![図2](https://user-images.githubusercontent.com/57475794/89707870-48aba700-d9ad-11ea-9f98-2f19fc80a020.png)
 
 ![yee_2d](https://user-images.githubusercontent.com/57475794/89707924-6711a280-d9ad-11ea-809e-bba48e3d8d2d.png)
-
-
-## 3次元FDTD
